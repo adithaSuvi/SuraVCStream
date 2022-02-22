@@ -1,7 +1,7 @@
 {
-    "name": "Video/Music Stream Bot",
+    "name": "The Marvin",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/5f2e911c64cf25f99c591.jpg",
+    "logo": "https://telegra.ph/file/a8a2c5c3f6cd271d1c4af.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/SuraBotStats",
-    "repository": "https://github.com/SRTheProgrammer/SuraVCStream",
-    "success_url": "https://t.me/SuraReddyTheProgrammer",
+    "website": "https://t.me/www_SL_Cricket_com",
+    "repository": "https://github.com/adithasuvi/SuraVCStream",
+    "success_url": "https://t.me/SL_cricket_news",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org or @api_scrapper_bot",
